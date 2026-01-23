@@ -37,6 +37,8 @@
 *.hex
 dwc
 !dwc/
+dcat
+!dcat/
 
 # Debug files
 *.dSYM/
